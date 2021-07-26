@@ -1,1 +1,1 @@
-# smartloan-mpesa-st-push
+# smartloan-mpesa-stk-push
