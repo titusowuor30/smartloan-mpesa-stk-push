@@ -14,7 +14,4 @@ public class Constants {
     public static final String TRANSACTION_TYPE = "CustomerPayBillOnline";
     public static final String PARTYB = "174379"; //same as business shortcode above
     public static final String CALLBACKURL = "http://mpesa-requestbin.herokuapp.com/14vfhf01";
-
-    //You should get these values from the earlier post Part 1
-
 }
